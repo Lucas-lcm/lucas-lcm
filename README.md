@@ -1,4 +1,4 @@
-## Bem vindo ao meu Github!.
+## Bem vindo ao meu Github!
 Estudante apaixonado por tecnologia, imerso na cultura data driven e na cultura ágil, focado na melhoria e na inovação através da tecnologia.
 
 Possuo experiência sólida na área de dados, atuando principalmente com dados de custo, e criação de ferramentas de cálculos e PowerBI para acompanhamento e tomada de decisão através dos dados históricos. Apto para realizar todo o fluxo para analise e processamento de dados de diversas fontes, realizando o ETL e o ELT de dados, utilizando R e Python como linguagens principais.
