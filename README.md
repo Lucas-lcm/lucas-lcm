@@ -12,7 +12,7 @@
 ##
 <div>
 	<a href="https://github.com/lucas-lcm">
-	<img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lcm&theme=tokyonight&layout=compact"/>
+	<img height="120cm" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lcm&theme=tokyonight&layout=compact](https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-lcm&theme=tokyonight&layout=compact)"/>
 </div>
 <br>
 <a href="https://www.linkedin.com/in/lucascmenezes/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a>
