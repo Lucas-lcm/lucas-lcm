@@ -10,9 +10,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" height="40" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" width="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="40" width="40" />
 ##
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Lucas-lcm&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=graywhite" width="440"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcm&layout=compact&theme=graywhite&hide_border=true" width="313" />
+<div>
+ <a href="https://github.com/Lucas-lcm">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-lcm&layout=compact&theme=tokyonight&hide_border=true" height="120cm" />
 </div>
 
 <br>
